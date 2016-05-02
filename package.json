@@ -1,0 +1,14 @@
+{
+  "name": "@cloudmpower/pebblesmodel",
+  "version": "0.0.21",
+  "description": "db model scheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "models"
+  ],
+  "author": "zubairhamid@cloudmpower.com",
+  "license": "ISC"
+}
